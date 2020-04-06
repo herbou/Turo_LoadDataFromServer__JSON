@@ -1,0 +1,4 @@
+*.meta
+Assets/*.meta
+Assets/sprites/*.meta
+Assets/JsonHelper/*.meta
